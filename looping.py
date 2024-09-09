@@ -16,12 +16,12 @@ else:
 
 '''a=int(input("enter the number"))
 while(a<10):
-    print(a)'''
+    print(type(a))'''
 
     
 
-a=1
-while(a<10):
+a=0
+while(a<20):
     a=a+1
     b=1*10
     print(a,"x",b,"=",a*b)
