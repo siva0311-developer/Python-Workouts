@@ -8,19 +8,19 @@ for i in range (1,3,1):
 
 
 '''task'''
-n=5
+'''n=5
 for i in range(1,5,1):
-    '''print(i)'''
+    print(i)
     j=0
     while(j<i):
         print("*",end= ' ')
         j+=1
-    print("\n")
+    print("\n")'''
 
 
 
 
 a=['raj','amaran','siva','ram','dev']
 
-a[4]='singo'
+a[4]='suya'
 print(a)
