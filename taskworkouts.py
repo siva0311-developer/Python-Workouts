@@ -11,11 +11,11 @@ for i in a:
  if(i==sender):
     print("Sender Name Is Available")
     d=(a.index(i))
-    print("Bal Amt",b[d]-EnterAmount)
-''' elif(i==Receiver):
+    print(" Sender Bal Amt",b[d]-EnterAmount)
+ elif(i==Receiver):
      print("Receiver Name Is Available")
      p=(a.index(i))
-     print("Credit Amt",b[p]+EnterAmount)'''
+     print("Receiver Credit Amt",b[p]+EnterAmount)
 
 
 
