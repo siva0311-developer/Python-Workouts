@@ -1,4 +1,4 @@
-n=5
+n="hello string"
 for i in range(1,5,1):
    
     j=0

@@ -8,9 +8,9 @@ for i in list:
 if(x==list):
     print("value is available")
 else:
-    print("value is available")'''
+    print("value is available")
 
-'''list.remove(30)
+list.remove(30)
 print(list)'''
 
 '''list=[10,20,30,40,50]
@@ -19,14 +19,15 @@ for i in list:
     if(i==s):
         continue
     print(i)'''
-  
-list=[10,20,30,40,50,60,70,80,50,20,30,40,50]
-d=int(input("Enter The Duplicate Value"))
+    
+    
+
+    
+list=[10,20,30,40,50,60,70,30,40,50]
+x=int(input("enter the duplicate value"))
+y=[]
 for i in list:
-    if(i==d):
-        list.remove(i-d)
-        print(list)
-        break
-    
-    
-    
+      if(i==x):
+       y.append(i)
+       print(x)
+        
