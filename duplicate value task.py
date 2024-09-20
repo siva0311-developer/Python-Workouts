@@ -3,5 +3,5 @@ x=int(input("enter the duplicate value"))
 y=[]
 for i in list:
       if(i==x):
-       y.append(i)
+       y.remove(i)
        print(x)
