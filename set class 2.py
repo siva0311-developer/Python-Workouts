@@ -57,3 +57,5 @@ i.pop('major')       #to give keys delete value
 print(i)
 i.popitem()
 print(i)             #to delete last given add value 
+
+
