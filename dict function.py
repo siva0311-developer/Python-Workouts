@@ -41,7 +41,7 @@ print(z)
 
 
 #add to input
-o={'name':'siva','age':20,'city':'madurai'}
+o={}
 m=input("Enter The Key")
 n=input("Enter The Values")
 for i in o.items():
