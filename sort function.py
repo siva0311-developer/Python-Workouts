@@ -9,8 +9,7 @@ print(b))
 '''b=a.copy()
 print(a.sort(reverse=True))
 print(a)
-print(b)'''
-
+print(b)
 
 #creating tuple using function:
 
@@ -49,3 +48,6 @@ y=min(e)
 print(y)
 z=max(e)
 print(z)
+'''
+a=[10,9,8,30,50,70]
+print(a.sort())
